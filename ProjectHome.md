@@ -1,0 +1,1 @@
+By Default OSX doesn't merge folder contents so this is a simple GUI tool to do just that.
